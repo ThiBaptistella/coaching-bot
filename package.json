@@ -4,6 +4,7 @@
   "description": "bot to coaching people how to get a job or prepare you self for interview",
   "main": "index.js",
   "scripts": {
+    "start" : "./node_modules/.bin/nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/ThiBaptistella/coaching-bot#readme",
   "dependencies": {
     "botbuilder": "4.2.0",
+    "nodemon": "1.18.9",
     "restify": "7.3.0"
   }
 }

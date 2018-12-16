@@ -1,0 +1,18 @@
+{
+    "name": "coaching-bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "9a8971d0-0149-11e9-9c31-c509a31a0a09",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/thiagobaptistella/Documents/NodeJS/coaching-bot/coaching-bot.bot"
+}
