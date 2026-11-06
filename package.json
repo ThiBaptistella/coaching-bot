@@ -21,6 +21,6 @@
   "dependencies": {
     "botbuilder": "4.2.0",
     "nodemon": "1.18.9",
-    "restify": "7.3.0"
+    "restify": "12.1.0"
   }
 }
